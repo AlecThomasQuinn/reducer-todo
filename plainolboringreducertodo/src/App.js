@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Justaplainolboringreducertodo here</h1>
+        <h1>Justaplainolboringreducertodo&#8482;</h1>
       </header>
       <TodoList />
       <TodoForm />
